@@ -6,6 +6,8 @@
     <googleplay:author>IT-Aanimuthyalu</googleplay:author>
     <language>eng</language>
     <author>IT-Aanimuthyalu</author>
+    <name>IT-Aanimuthyaalu</name>
+    <email>it.aanimuthyaalu@gmail.com</email>
     <itunes:author>IT-Aanimuthyalu</itunes:author>
     <itunes:name>IT-Aanimuthyalu</itunes:name>
     <itunes:email>it.aanimuthyaalu@gmail.com</itunes:email>
@@ -34,7 +36,7 @@
       <itunes:author>Srikanth Mokkapati</itunes:author>
       <title>000 : Intro to Podcast</title>
       <pubDate>Monday, 07 Sep 2020 08:00:00 IST</pubDate>
-      <enclosure url="https://it-aanimuthyaalu.github.io/player/web/audio/test.mp3" type="audio/mpeg" length="330000" />
+      <enclosure url="https://it-aanimuthyaalu.github.io/player/web/audio/test.mp3" type="audio/mpeg" length="7000" />
       <itunes:duration>5:30</itunes:duration>
       <guid isPermaLink="false">itap-000</guid>
       <itunes:explicit>no</itunes:explicit>
