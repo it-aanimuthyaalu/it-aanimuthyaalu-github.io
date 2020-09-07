@@ -9,8 +9,10 @@
     <name>IT-Aanimuthyaalu</name>
     <email>it.aanimuthyaalu@gmail.com</email>
     <itunes:author>IT-Aanimuthyalu</itunes:author>
-    <itunes:name>IT-Aanimuthyalu</itunes:name>
-    <itunes:email>it.aanimuthyaalu@gmail.com</itunes:email>
+    <itunes:owner>
+      <itunes:name>IT-Aanimuthyalu</itunes:name>
+      <itunes:email>it.aanimuthyaalu@gmail.com</itunes:email>
+    </itunes:owner>
     <itunes:category text="Technology" />
     <googleplay:category text="Technolgy"/>
     <image>
