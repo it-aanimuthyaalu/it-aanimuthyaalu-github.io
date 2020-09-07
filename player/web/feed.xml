@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
-    <title>IT Aanimuthyalu</title>
+    <title>IT Aanimuthyaalu</title>
     <googleplay:owner>it.aanimuthyaalu@gmail.com</googleplay:owner>
-    <googleplay:author>IT-Aanimuthyalu</googleplay:author>
+    <googleplay:author>IT-Aanimuthyaalu</googleplay:author>
     <language>eng</language>
-    <author>IT-Aanimuthyalu</author>
+    <author>IT-Aanimuthyaalu</author>
     <name>IT-Aanimuthyaalu</name>
     <email>it.aanimuthyaalu@gmail.com</email>
-    <itunes:author>IT-Aanimuthyalu</itunes:author>
+    <itunes:author>IT-Aanimuthyaalu</itunes:author>
     <itunes:owner>
-      <itunes:name>IT-Aanimuthyalu</itunes:name>
+      <itunes:name>IT-Aanimuthyaalu</itunes:name>
       <itunes:email>it.aanimuthyaalu@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Technology" />
@@ -21,7 +21,7 @@
       <link>https://it-aanimuthyaalu.github.io</link>
     </image>
     <itunes:keywords>design,development,github,web,Entertainment,timepass</itunes:keywords>
-    <copyright>IT Aanimuthyalu Creations 2020</copyright>
+    <copyright>IT Aanimuthyaalu Creations 2020</copyright>
     <description>
     This is a Podcast where we discuss and share our views on different topics, including but not limited to, Software/IT, Movies, Cricket, etc..
     
